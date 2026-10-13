@@ -99,10 +99,6 @@ This project is open-source and available to everyone under the MIT License. See
 
 ---
 
-### ۳. متن کامل فایل `LICENSE` (مجوز MIT)
-
-در صورتی که هنگام ساخت ریپازیتوری گزینه `Add a license -> MIT License` را از منوی گیت‌هاب انتخاب نکنید و بخواهید فایل `LICENSE` را دستی بسازید، متن استاندارد آن به شرح زیر است:
-
 ```text
 MIT License
 
@@ -125,4 +121,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
